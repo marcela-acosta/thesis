@@ -6,7 +6,7 @@ El objetivo de este trabajo es desarrollar y validar una estrategia de trading r
 
 ## Contenido del Repositorio
 
-- **/notebooks:** Contiene los Jupyter Notebooks con el análisis exploratorio, el modelado y la validación.
+- Contiene los Jupyter Notebooks con el análisis exploratorio, el modelado y la validación.
 
 ## Autores
 
